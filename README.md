@@ -73,7 +73,7 @@ ai-image-classifier/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-image-classifier.git
+git clone https://github.com/uttamkumar95446-bot/ai-image-classifier.git
 cd ai-image-classifier
 ```
 
